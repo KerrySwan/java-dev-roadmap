@@ -1,9 +1,8 @@
-package set;
-
+import commonObject.ComparableDummy;
 import commonObject.EnumDummy;
+import commonObject.HashDummy;
 
-import java.util.EnumSet;
-import java.util.Set;
+import java.util.*;
 
 public class EnumSetEdu {
 
@@ -23,6 +22,17 @@ public class EnumSetEdu {
                     System.out::println
             );
 
+
+        //HashSet
+        Set<HashDummy> hashSet = new HashSet<>();
+
+        //LinkedHashSet
+        Set<HashDummy> linkedHashSet = new LinkedHashSet<>();
+
+        //TreeSet
+        NavigableSet<ComparableDummy> treeSet = new TreeSet<>();
+
+        //todo: Дополнить операциями с наборами. Дополнить многопоточными реализациями.
 
     }
 
