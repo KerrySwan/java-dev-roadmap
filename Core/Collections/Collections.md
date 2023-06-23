@@ -1,5 +1,3 @@
-Вольный перевод-конспект [источника](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html)
-
 # Collection Framework
 
 ## Обзор:
@@ -244,3 +242,7 @@ hashCode и equals. Вывод элементов не гарантирован 
 
 6 реализаций Set (2 многопоточные)
 ```
+
+## Использованные источники
+1. Вольный перевод-конспект [оффициального сайта oracle](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html)
+2. Вольный перевод-конспект [Javadoc](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/reference.html)
