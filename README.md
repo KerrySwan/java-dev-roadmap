@@ -35,6 +35,5 @@
 
 
 #### TODO:
-Необходимо поменять представление имплементаций коллекций в соотвествии с тем, что представленно
-в [документации Oracle](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/reference.html)
-<br>Хотя можно оставить два вида распределения - назначение и тип коллекции
+[документация Oracle](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/reference.html)
+Надо добавить информацию о Random Access и последовательном доступе для коллекций.
